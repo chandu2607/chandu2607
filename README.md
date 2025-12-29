@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 💫 About Me:
+# 💫 About Me:
 🔭I'm a 2nd year student at BVRIT, Narsapur.<br> I’m currently working on AI-ML concept<br>Building and making it my core strength. <br>👯 I’m looking to collaborate on LinkedIn.<br>🤝 I’m looking for help with ML and deep learning <br>Concepts.<br>🌱 I’m currently learning about Basics of ML.
 
 
@@ -17,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=chandu2607&icon=0&color=13)](https://visitcount.itsvg.in)
 
-**chandu2607/chandu2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
